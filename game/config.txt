@@ -1,0 +1,4 @@
+Game_name:赛博佳乐;
+Game_key:0xlhzcjl;
+Title_img:Title.png;
+Title_bgm:RageOfDust.mp3;
